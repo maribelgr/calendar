@@ -13,4 +13,14 @@ De esta forma, los eventos aparecerán en el calendario por orden de la hora est
 
 ### Previsualización
 
+####Página de inicio####
+
 ![Pagina completa](https://user-images.githubusercontent.com/70604477/105868272-4b9b6200-5ff6-11eb-875a-40ae9cb7d40c.png)
+
+
+####Selección de día####
+![Selección de dia](https://user-images.githubusercontent.com/70604477/105868520-8ac9b300-5ff6-11eb-8d23-1599f8691c2b.png)
+
+
+####Detalle de evento####
+![Detalle de evento](https://user-images.githubusercontent.com/70604477/105868817-da0fe380-5ff6-11eb-976e-ac48436d6845.png)
