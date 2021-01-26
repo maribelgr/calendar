@@ -1,3 +1,17 @@
 # Mi calendario
 
-## Creación de una aplicación de gestión de eventos en el calendario.
+## Aplicación para gestionar eventos o citas en el calendario, creada con JavaScript y React..
+
+
+### Descripción
+
+Es una SPA para la que he utilizado el framework **Syncfusion** para mejorar la apariencia gŕafica.
+En ella puedes seleccionar la vista de calendario, en este caso, por defecto,siempre aparecerá la vista del mes en curso y el día actual señalado en rosa.
+Seleccionando un día, aparece un modal para añadir un evento en el que por defecto aparecerá señalado durante todo el día y únicamente deberás poner el título del evento y pulsar sobre ***SAVE***. Si quieres añadir más especificaciones al evento pulsaremos sobre la opción ***MORE DETAILS*** y podremos seleccionar la hora de inicio y fin del evento, quitando la selección "All day" y seleccionaremos las horas. También podemos añadir una localización o una pequeña descripción y, una vez rellenos los campos deseados, pulsaremos ***SAVE***.
+De esta forma, los eventos aparecerán en el calendario por orden de la hora establecida.
+
+
+### Previsualización
+
+![Pagina completa](file:///home/maribel/Escritorio/FireShot%20Capture%20013%20-%20Mi%20Calendario%20-%20maribelgr.github.io.png
+)
