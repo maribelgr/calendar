@@ -1,6 +1,6 @@
 # Mi calendario
 
-## Aplicación para gestionar eventos o citas en el calendario, creada con JavaScript y React..
+## Aplicación para gestionar eventos o citas en el calendario, creada con JavaScript y React.
 
 
 ### Descripción
@@ -24,3 +24,12 @@ De esta forma, los eventos aparecerán en el calendario por orden de la hora est
 
 **Detalle del evento**
 ![Detalle de evento](https://user-images.githubusercontent.com/70604477/105868817-da0fe380-5ff6-11eb-976e-ac48436d6845.png)
+
+
+## Para arrancar el proyecto...
+
+Para arrancar el proyecto necesitarás hacer **npm install** y, a continuación, **npm start** para visualizarlo en el navegador.
+
+
+
+Made with :heartbeat: by maribelgr
