@@ -30,6 +30,6 @@ De esta forma, los eventos aparecerán en el calendario por orden de la hora est
 
 Para arrancar el proyecto necesitarás hacer **npm install** y, a continuación, **npm start** para visualizarlo en el navegador.
 
-
+__
 
 Made with :heartbeat: by maribelgr
