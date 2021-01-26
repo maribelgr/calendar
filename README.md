@@ -10,6 +10,8 @@ En ella puedes seleccionar la vista de calendario, en este caso, por defecto,sie
 Seleccionando un día, aparece un modal para añadir un evento en el que por defecto aparecerá señalado durante todo el día y únicamente deberás poner el título del evento y pulsar sobre ***SAVE***. Si quieres añadir más especificaciones al evento pulsaremos sobre la opción ***MORE DETAILS*** y podremos seleccionar la hora de inicio y fin del evento, quitando la selección "All day" y seleccionaremos las horas. También podemos añadir una localización o una pequeña descripción y, una vez rellenos los campos deseados, pulsaremos ***SAVE***.
 De esta forma, los eventos aparecerán en el calendario por orden de la hora establecida.
 
+La aplicación consta de un sólo componente ***App.js*** en el que se parametrizan las opciones de vista del calendario y su vista por defecto.
+
 
 ### Previsualización
 
