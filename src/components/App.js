@@ -4,7 +4,7 @@ import { Inject, ScheduleComponent, Day, Week, WorkWeek, Month, Agenda } from '@
 
 class App extends React.Component {
   render() {
-    return <ScheduleComponent>
+    return <ScheduleComponent currentView="Month">
       <Inject services={[Day, Week, WorkWeek, Month, Agenda]} />
     </ScheduleComponent>
   }
